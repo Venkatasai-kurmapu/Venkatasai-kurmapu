@@ -1,6 +1,10 @@
- Hi 👋, I'm Venkata Sai Kurmapu
+
+# Hi 👋, I'm Venkata Sai Kurmapu
+
 🎓 B.Tech Graduate in Computer Science & Engineering (AI & ML)
+
 💻 Aspiring Software Engineer | AI & ML Enthusiast
+
 ## 👨‍💻 About Me
 
 - 🎯 Interested in Artificial Intelligence and Data Science.
@@ -13,7 +17,7 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python
+- **Programming:** Python, Java (Basics)
 - **Database:** SQL
 - **AI & ML:** Machine Learning, Deep Learning, NLP
 - **Generative AI:** GenAI, Agentic AI, Prompt Engineering
